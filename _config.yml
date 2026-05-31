@@ -4,7 +4,7 @@
 
 
 
-title: 
+title: Gor Vartazaryan
 first_name: Gor
 middle_name: 
 last_name: Vartazaryan
@@ -85,7 +85,7 @@ al_folio:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: false
 footer_fixed: true
 search_enabled: false
 socials_in_search: true
@@ -93,7 +93,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 800px
+max_width: 1200px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
