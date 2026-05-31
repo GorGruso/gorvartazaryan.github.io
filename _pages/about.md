@@ -23,7 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a lawyer and a political scientist. Currently, I am a doctoral candidate at the Charles University, Faculty of Law, Constitutional Law Department supervised by Prof. Jan Wintr (https://www.prf.cuni.cz/detail-cloveka/128) and an MPhil student in socio-legal research at Oxford University, supervised by Prof. Agnieszka Kubal (https://www.law.ox.ac.uk/people/agnieszka-kubal).
-My undergraduate studies happened at the Charles University in Prague.
+I am a doctoral candidate at the Charles University Faculty of Law, [Constitutional Law Department](https://www.prf.cuni.cz/detail-cloveka/100031443795) supervised by [Prof. Jan Wintr](https://www.prf.cuni.cz/detail-cloveka/128) and an [MPhil student](https://www.law.ox.ac.uk/people/gor-vartazaryan) in socio-legal research at Oxford University, supervised by [Prof. Agnieszka Kubal](https://www.law.ox.ac.uk/people/agnieszka-kubal). My current research focuses on dissenting opinions at the European Court of the Human Rights and the Czech Constitutional Court.
 
 Feel welcome to explore this webpage if you are interested in my work!
