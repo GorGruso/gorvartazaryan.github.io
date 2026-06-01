@@ -2,9 +2,12 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/CV.pdf # path to your CV PDF file
-email: gor.vartazaryan@prf.cuni.cz # your email address
 scholar_userid: Cf8F_8sAAAAJ&hl # your Google Scholar ID
-linkedin_username: Gor-Vartazaryan
+research_gate_profile: Gor-Vartazaryan
 orcid_id: 0000-0002-0367-7274
 github_username: GorGruso
-research_gate_profile: Gor-Vartazaryan
+email: gor.vartazaryan@prf.cuni.cz # your email address
+linkedin_username: Gor-Vartazaryan
+
+
+
