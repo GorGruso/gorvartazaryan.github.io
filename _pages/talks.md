@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Media Coverage
 
-### Pre-Electoral coalitions and the "STAČILO!" case in 2025 General elections
+### Pre-electoral coalitions cases in 2025 Czech general elections
 
 [1] **[Echo24 – Constitutional lawyers on electoral coalitions and STAČILO!](https://www.echo24.cz/a/HFQ3j/ustava-jan-kysela-pravo-pravnik-soud-zaloba-stacilo-spd-nekoalice-skryte-koalice-pseudokoalice-volby-snemovny)**
 Mentioned as an expert commentator on electoral coalitions and constitutional aspects of the 2025 parliamentary elections.
