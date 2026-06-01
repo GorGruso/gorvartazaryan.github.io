@@ -4,7 +4,7 @@ permalink: /conferences/
 title: conference presentations
 nav: true
 nav_order: 4
-------------
+---
 
 [11] **Constitutional Court Clerks and Judicial Decision-Making at the Czech Constitutional Court**
 European Society for Empirical Legal Studies (ESELS) Annual Conference, Slovenia
