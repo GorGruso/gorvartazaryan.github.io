@@ -11,7 +11,7 @@ nav_order: 4
 
 ---
 
-#### ACEDIA: *Apathy in Central European Democracies: How to Improve Awareness?*
+#### *ACEDIA: Apathy in Central European Democracies: How to Improve Awareness?*
 
 **Funding body:** MSCA Fellowships CZ
 **Project number:** CZ.02.01.01/00/22_010/0008115
@@ -26,7 +26,7 @@ nav_order: 4
 
 ---
 
-#### Behind Judicial Decisions: Who Are Judicial Clerks and Do They Influence Decision-Making?
+#### *Behind Judicial Decisions: Who Are Judicial Clerks and Do They Influence Decision-Making?*
 
 **Funding body:** Charles University Grant Agency (GA UK)
 **Project number:** 188825
@@ -41,7 +41,7 @@ nav_order: 4
 
 ---
 
-#### Political Parties and the Czech Constitutional Court: Theory and Practice
+#### *Political Parties and the Czech Constitutional Court: Theory and Practice*
 
 **Funding body:** Czech Science Foundation (GA ČR)
 **Project number:** 25-16148S
@@ -58,7 +58,7 @@ nav_order: 4
 
 ## Principal investigator projects
 
-#### Between the Legislative and Executive Powers: The Constitutional Right of the President of the Czech Republic to Participate in Meetings of Parliament and Government (Article 64 of the Constitution)
+#### *Between the Legislative and Executive Powers: The Constitutional Right of the President of the Czech Republic to Participate in Meetings of Parliament and Government (Article 64 of the Constitution)*
 
 **Funding body:** Charles University Grant Agency (GA UK)
 **Project number:** 408725
@@ -74,7 +74,7 @@ nav_order: 4
 
 ---
 
-#### Polarization of the Third Czech Constitutional Court: An Analysis of Dissenting Behaviour of Constitutional Judges
+#### *Polarization of the Third Czech Constitutional Court: An Analysis of Dissenting Behaviour of Constitutional Judges*
 
 **Funding body:** Charles University Grant Agency (GA UK)
 **Project number:** 87124
@@ -90,7 +90,7 @@ nav_order: 4
 
 ---
 
-#### How Does the Constitutional System Deal with Presidential Overreach?
+#### *How Does the Constitutional System Deal with Presidential Overreach?*
 
 **Funding body:** Charles University Grant Agency (GA UK)
 **Project number:** 146323
@@ -108,7 +108,7 @@ nav_order: 4
 
 ## Previous projects
 
-#### Mutual Interaction of the Self-Perspective and the Other-Perspective in Political Decision-Making: A Perspective of Quantum Social Science
+#### *Mutual Interaction of the Self-Perspective and the Other-Perspective in Political Decision-Making: A Perspective of Quantum Social Science*
 
 **Funding body:** Czech Science Foundation (GA ČR)
 **Project number:** 22-08336S
@@ -123,7 +123,7 @@ nav_order: 4
 
 ---
 
-#### Crises and Democracy: The Long-Term Impacts of COVID-19 on V4 Countries' Electoral Systems
+#### *Crises and Democracy: The Long-Term Impacts of COVID-19 on V4 Countries' Electoral Systems*
 
 **Funding body:** International Visegrad Fund
 **Project number:** 22120065
