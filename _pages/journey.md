@@ -2,7 +2,7 @@
 layout: page
 title: my (academic) journey
 permalink: /journey/
-nav: false
+nav: true
 nav_order: 6
 ---
 
