@@ -16,7 +16,7 @@ My academic journey began at [Gymnázium Jana Keplera](https://gjk.cz), which re
 
 ## Chess ♟️
 
-![Chess](/assets/img/chess.jpg){: style="width: 35%; float: left; margin-right: 20px;" }
+<img src="{{ site.baseurl }}/assets/img/chess.jpg" alt="Chess" style="width: 35%; float: left; margin-right: 20px;">
 
 For many years, I was convinced that chess would become my primary intellectual pursuit. Unfortunately, my [rating](https://ratings.fide.com/profile/397784) disagreed.
 
