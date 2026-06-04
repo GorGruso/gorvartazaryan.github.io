@@ -6,54 +6,64 @@ nav: true
 nav_order: 4
 ---
 
-## Media Coverage
+### Pre-electoral coalitions cases in the 2025 Czech general election
 
-### Pre-electoral coalitions cases in 2025 Czech general elections
-
-[1] **[Echo24 – Constitutional lawyers on electoral coalitions and STAČILO!](https://www.echo24.cz/a/HFQ3j/ustava-jan-kysela-pravo-pravnik-soud-zaloba-stacilo-spd-nekoalice-skryte-koalice-pseudokoalice-volby-snemovny)**
+**1. [Ústavní právníci o STAČILO!, SPD a skrytých koalicích](https://www.echo24.cz/a/HFQ3j/ustava-jan-kysela-pravo-pravnik-soud-zaloba-stacilo-spd-nekoalice-skryte-koalice-pseudokoalice-volby-snemovny)**
+*Echo24*
 Mentioned as an expert commentator on electoral coalitions and constitutional aspects of the 2025 parliamentary elections.
 
-[2] **[HlídacíPes.org – Hidden coalitions as a recurring feature of Czech politics](https://hlidacipes.org/spd-stacilo-i-pirati-ohybaji-volebni-zakon-nekoalice-casty-trik-ceske-politiky/)**
-Mentioned in discussion of electoral law and coalition strategies.
+**2. [SPD, STAČILO! i Piráti ohýbají volební zákon. Nekoalice jsou častým trikem české politiky](https://hlidacipes.org/spd-stacilo-i-pirati-ohybaji-volebni-zakon-nekoalice-casty-trik-ceske-politiky/)**
+*HlídacíPes.org*
+Mentioned in a discussion of electoral law and coalition strategies.
 
-[3] **[Novinky.cz – Debate on coalition rules and electoral legislation](https://www.novinky.cz/clanek/domaci-zmenme-zakon-rikaji-poslanci-ke-sporum-o-slepence-hrib-odmita-ods-mlci-schillerova-mlzi-40538655)**
+**3. [Změňme zákon, říkají poslanci ke sporům o slepence](https://www.novinky.cz/clanek/domaci-zmenme-zakon-rikaji-poslanci-ke-sporum-o-slepence-hrib-odmita-ods-mlci-schillerova-mlzi-40538655)**
+*Novinky.cz*
 Mentioned regarding legal controversies surrounding electoral coalitions.
 
-[4] **[iDNES.cz – Interview on the constitutional implications of hidden coalitions](https://www.idnes.cz/volby/volby-ustavni-soud-koalice-stacilo-spd-baxa-volt-pravnik.A250918_191459_domaci_vals)**
+**4. [Rozhovor o ústavních aspektech skrytých koalic](https://www.idnes.cz/volby/volby-ustavni-soud-koalice-stacilo-spd-baxa-volt-pravnik.A250918_191459_domaci_vals)**
+*iDNES.cz*
 Interview.
 
-[5] **[ČTK – Expert commentary on electoral coalition disputes](https://www.ceskenoviny.cz/zpravy/2724434)**
+**5. [Vyjádření k problematice volebních koalic](https://www.ceskenoviny.cz/zpravy/2724434)**
+*ČTK*
+Expert commentary.
+
+**6. [Názory expertů na skryté koalice se různí](https://www.irozhlas.cz/volby/online-nazory-expertu-na-skryte-koalice-se-ruzni-od-ustavniho-soudu-ale-cekaji_2509231045_ako)**
+*iROZHLAS*
 Mentioned.
 
-[6] **[iROZHLAS – Expert opinions on hidden coalitions](https://www.irozhlas.cz/volby/online-nazory-expertu-na-skryte-koalice-se-ruzni-od-ustavniho-soudu-ale-cekaji_2509231045_ako)**
+**7. [Názory expertů na skryté koalice se různí, od ÚS však očekávají zdrženlivost](https://www.pravniprostor.cz/aktuality/nazory-expertu-na-skryte-koalice-se-ruzni-od-us-vsak-ocekavaji-zdrzenlivost)**
+*Právní prostor*
 Mentioned.
 
-[7] **[Právní prostor – Expert opinions on hidden coalitions](https://www.pravniprostor.cz/aktuality/nazory-expertu-na-skryte-koalice-se-ruzni-od-us-vsak-ocekavaji-zdrzenlivost)**
+**8. [Je to pořád ještě strana, nebo už skrytá koalice?](https://zpravy.aktualne.cz/domaci/je-to-porad-jeste-strana-nebo-uz-skryta-koalice-verdikt-ma-a/r~d42db164984e11f0a26cac1f6b220ee8/)**
+*Aktuálně.cz*
 Mentioned.
 
-[8] **[Aktuálně.cz – Is it still a party or already a hidden coalition?](https://zpravy.aktualne.cz/domaci/je-to-porad-jeste-strana-nebo-uz-skryta-koalice-verdikt-ma-a/r~d42db164984e11f0a26cac1f6b220ee8/)**
-Mentioned.
-
-[9] **[Wikipedia – 2025 Czech parliamentary election](https://en.wikipedia.org/wiki/2025_Czech_parliamentary_election)**
+**9. [2025 Czech parliamentary election](https://en.wikipedia.org/wiki/2025_Czech_parliamentary_election)**
+*Wikipedia*
 Research cited in the discussion of the STAČILO! coalition dispute.
 
-[10] **[Česká justice – Hidden coalitions and electoral law](https://www.ceska-justice.cz/2025/09/okate-obchazeni-zakona-nebo-30-let-tolerovana-praxe-koalice/)**
+**10. [Okaté obcházení zákona, nebo třicet let tolerovaná praxe koalice?](https://www.ceska-justice.cz/2025/09/okate-obchazeni-zakona-nebo-30-let-tolerovana-praxe-koalice/)**
+*Česká justice*
 Mentioned as an expert on electoral law.
 
-### About Oxford Studies
+---
 
-[1] **[What Is It Like to Do a Research MPhil in Socio-Legal Studies at Oxford?](https://czexpats.org/en/clanek/what-is-it-like-to-do-a-research-mphil-in-socio-legal-studies-like-at-oxford/)**  
-Interview for Czexpats discussing the MPhil in Socio-Legal Research at the University of Oxford.
+### Studying at oxford
 
-[2] **[Jak vypadá na Oxfordu výzkumný MPhil v sociálně-právním oboru?](https://czexpats.org/clanek/gor-vartazaryan-jak-vypada-na-oxfordu-vyzkumny-mphil-v-socialne-pravnim-oboru/)**  
-Interview for Czexpats on studying socio-legal research at Oxford (Czech version).
+**1. [Jak vypadá na Oxfordu výzkumný MPhil v sociálně-právním oboru?](https://czexpats.org/clanek/gor-vartazaryan-jak-vypada-na-oxfordu-vyzkumny-mphil-v-socialne-pravnim-oboru/)**
+*Czexpats (Czech version)*
 
-[3] **[The Hardest Part About Studying at Oxford Was Getting Funding](https://www.prf.cuni.cz/en/news/hardest-part-about-studying-oxford-was-getting-funding-says-phd-student-gor-vartazaryan)**  
-Interview with Charles University Faculty of Law about studying at Oxford and pursuing doctoral research.
+**2. [What Is It Like to Do a Research MPhil in Socio-Legal Studies at Oxford?](https://czexpats.org/en/clanek/what-is-it-like-to-do-a-research-mphil-in-socio-legal-studies-like-at-oxford/)**
+*Czexpats (English version)*
 
-[4] **[Nejtěžší bylo zařídit financování, říká o studiu na Oxfordu doktorand Gor Vartazaryan](https://www.prf.cuni.cz/aktuality/nejtezsi-bylo-zaridit-finacovani-rika-o-studiu-na-oxfordu-doktorand-gor-vartazaryan)**  
-Interview with Charles University Faculty of Law (Czech version).
+**3. [Nejtěžší bylo zařídit financování, říká o studiu na Oxfordu doktorand Gor Vartazaryan](https://www.prf.cuni.cz/aktuality/nejtezsi-bylo-zaridit-finacovani-rika-o-studiu-na-oxfordu-doktorand-gor-vartazaryan)**
+*Charles University Faculty of Law (Czech version)*
 
-[5] **[PF UK: O studiu na Oxfordu s Gorem Vartazaryanem](https://www.youtube.com/watch?v=UV30hDI9vvA)**  
-Video interview for Charles University Faculty of Law discussing studies at the University of Oxford (Czech version).
+**4. [The Hardest Part About Studying at Oxford Was Getting Funding](https://www.prf.cuni.cz/en/news/hardest-part-about-studying-oxford-was-getting-funding-says-phd-student-gor-vartazaryan)**
+*Charles University Faculty of Law (English version)*
+
+**5. [PF UK: O studiu na Oxfordu s Gorem Vartazaryanem](https://www.youtube.com/watch?v=UV30hDI9vvA)**
+*Video interview*
 
